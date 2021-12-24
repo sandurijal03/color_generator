@@ -1,13 +1,12 @@
+import React from 'react';
 import { render } from 'react-dom';
-
-const Main = () => {
-  return (
-    <div>
-      <h1>Color Generator</h1>
-    </div>
-  );
-};
+import Main from './Main';
 
 const root = document.getElementById('root');
 
-render(<Main />, root);
+render(
+  <React.StrictMode>
+    <Main />
+  </React.StrictMode>,
+  root,
+);
