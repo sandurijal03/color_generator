@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/color_generator/static/js/main.becd26d5.js",
+    "index.html": "/color_generator/index.html",
+    "main.becd26d5.js.map": "/color_generator/static/js/main.becd26d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.becd26d5.js"
+  ]
+}
